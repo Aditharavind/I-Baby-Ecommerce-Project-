@@ -1,8 +1,8 @@
 
 
-# Ibabay E-Commerce Shop
+# Ibaby E-Commerce Shop
 
-**Ibabay E-Commerce Shop** is an online shopping platform built using Django. This project showcases fundamental e-commerce functionalities, allowing users to browse products, add items to their cart, and manage orders. It was created during my initial learning phase with Django, focusing on practical application of the framework.
+**Ibaby E-Commerce Shop** is an online shopping platform built using Django. This project showcases fundamental e-commerce functionalities, allowing users to browse products, add items to their cart, and manage orders. It was created during my initial learning phase with Django, focusing on practical application of the framework.
 
 ## Features
 
